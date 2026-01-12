@@ -2,6 +2,10 @@
 
 A high-fidelity landing page clone of **Amazon.in**, focused on capturing the complex layout and responsive design of one of the world's largest e-commerce platforms.
 
+## 🔗 Live Demo
+Check out the live project here:  
+👉 **[View Live Preview](https://bikash-mahanandia.github.io/amazon-clone/client/public/index.html)**
+
 ## 🚀 Project Overview
 This project is currently in **Phase 1 (Frontend Layout)**. It serves as the foundation for a planned full-stack application. The goal was to recreate the Amazon user experience using clean, semantic HTML and modern CSS techniques.
 
