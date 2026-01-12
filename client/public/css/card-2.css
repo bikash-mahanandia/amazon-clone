@@ -1,0 +1,29 @@
+.card-2{
+    width:100%;
+    height:300px;
+    background-color:rgb(227,230,230);
+}
+.card-2-cont{
+    width:200vh;
+    height:19vw;
+    border:2px solid green;
+    margin-left:25px;
+    background-color:white;
+    overflow-x:scroll;
+}
+.card-2-title{
+    height:3vw;
+    width:160vh;
+    border:1px solid white;
+}
+.card-2-body{
+    height:14vw;
+    display:flex;
+    align-items:center;
+    gap:10px;
+    border:1px solid blue;
+}
+.card-2-box {
+   margin-left:10px;
+
+}

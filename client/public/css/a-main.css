@@ -1,0 +1,23 @@
+.a-main{
+  background-image:url("/a-bg-1.jpg");
+  width:98vw;
+  height:80vh;
+  background-repeat: no-repeat;
+  margin-left:10px;
+    
+}
+
+/* Media query for mobile phones */
+@media only screen and (max-width: 600px) {
+ .a-main{
+     width:100vw;
+     margin-left:0px;
+     height:20vh;
+     background-size:contain;
+     background-color:red;
+ }
+ .card-layout{
+    top:22vh;
+ }
+}
+
